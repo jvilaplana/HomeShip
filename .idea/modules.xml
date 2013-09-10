@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HomeShip/HomeShip.iml" filepath="$PROJECT_DIR$/HomeShip/HomeShip.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HomeShipProject.iml" filepath="$PROJECT_DIR$/HomeShipProject.iml" />
+    </modules>
+  </component>
+</project>
+
