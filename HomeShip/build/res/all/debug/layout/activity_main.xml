@@ -25,10 +25,11 @@
     <ImageButton
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:id="@+id/imageButton"
+            android:id="@+id/powerButton"
             android:src="@drawable/ic_launcher"
-            android:layout_alignTop="@+id/textView"
-            android:layout_alignParentRight="true"/>
+            android:layout_below="@+id/textView"
+            android:layout_toRightOf="@+id/imageView"
+            android:layout_marginTop="22dp"/>
 
 </RelativeLayout>
 <!-- From: file:/Users/jordi/AndroidStudioProjects/HomeShipProject/HomeShip/src/main/res/layout/activity_main.xml -->

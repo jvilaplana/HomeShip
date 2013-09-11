@@ -8,6 +8,7 @@
     <string name="action_settings">Settings</string>
     <string name="app_name">HomeShip</string>
     <string name="hello_world">Hello world!</string>
+    <string name="title_activity_power">Power Activity</string>
     <!-- From: file:/Users/jordi/AndroidStudioProjects/HomeShipProject/HomeShip/src/main/res/values/styles.xml -->
     <style name="AppBaseTheme" parent="android:Theme.Light">
         <!--
